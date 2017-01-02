@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When a repo is initialized Git creates the .git folder containing the
+metadata required to maintain and track the repo. Without this, the
+repo is just a regular directory.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area allows the user to pick and choose which files from the working
+directory should be included in the repo via a commit. This is valuable
+because the user can select only the needed files for a given commit to make
+sure there is no clutter or unused files in the commits to the repo.

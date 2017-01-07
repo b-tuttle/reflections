@@ -26,3 +26,11 @@ What is the benefit of having a copy of the last known state of the remote store
 
 You can work locally without internet and still compare your branch with the
 remote branch.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+If I had to collaborate outside of GitHub I would use google drive or
+dropbox for the files and use email to explain changes and make review
+requests. Pretty much everything would be made easier and less error-prone
+through GitHub.

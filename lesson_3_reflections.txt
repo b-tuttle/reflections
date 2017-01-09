@@ -34,3 +34,13 @@ If I had to collaborate outside of GitHub I would use google drive or
 dropbox for the files and use email to explain changes and make review
 requests. Pretty much everything would be made easier and less error-prone
 through GitHub.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Making changes in a seperate branch allows you to work on experiemental features,
+as explained earlier, and when it comes time to integrate these changes
+with the master the project can be tested before being merged to master.
+This method takes a bit more effort and thought initially, but might save 
+a lot of wasted effort down the line by keeping progress in different aspects
+of a project distinct.
